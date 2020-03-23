@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(136, 53, 5);
+}
+h1{
+    color:rgb(5, 116, 51);
+}
+div .col-sm-6{
+    color: white;
+}
+div .well{
+    background-color:rgb(103, 21, 141);
+}
+button{
+    background-color: rgb(24, 124, 54);
+    color: white;
+    height:33px;
+    width: 22%;
+    font-size: 2.2rem;
+}
+#spButton{
+    /* background-color: red; */
+    margin-top: 11%;
+}
+/* a button #toPage{
+    background-color: red;
+} */
+/* button #toPage{
+    background-color: yellow;
+    font-size: 2.5rem;
+} */
+h1{
+    color:white;
+}
